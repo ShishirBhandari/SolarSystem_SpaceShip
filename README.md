@@ -1,1 +1,1 @@
-# SolarSystem_SpaceShip
+# SolarSystem_using_OpenGL
